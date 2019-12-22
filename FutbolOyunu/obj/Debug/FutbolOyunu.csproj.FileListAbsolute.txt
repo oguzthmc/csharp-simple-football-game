@@ -1,0 +1,13 @@
+C:\Users\Acer\source\repos\FutbolOyunu\FutbolOyunu\obj\Debug\FutbolOyunu.csprojAssemblyReference.cache
+C:\Users\Acer\source\repos\FutbolOyunu\FutbolOyunu\obj\Debug\FutbolOyunu.csproj.CoreCompileInputs.cache
+C:\Users\Acer\source\repos\FutbolOyunu\FutbolOyunu\bin\Debug\FutbolOyunu.exe.config
+C:\Users\Acer\source\repos\FutbolOyunu\FutbolOyunu\bin\Debug\FutbolOyunu.exe
+C:\Users\Acer\source\repos\FutbolOyunu\FutbolOyunu\bin\Debug\FutbolOyunu.pdb
+C:\Users\Acer\source\repos\FutbolOyunu\FutbolOyunu\obj\Debug\FutbolOyunu.exe
+C:\Users\Acer\source\repos\FutbolOyunu\FutbolOyunu\obj\Debug\FutbolOyunu.pdb
+C:\Users\Acer\Desktop\FutbolOyunu\FutbolOyunu\bin\Debug\FutbolOyunu.exe.config
+C:\Users\Acer\Desktop\FutbolOyunu\FutbolOyunu\bin\Debug\FutbolOyunu.exe
+C:\Users\Acer\Desktop\FutbolOyunu\FutbolOyunu\bin\Debug\FutbolOyunu.pdb
+C:\Users\Acer\Desktop\FutbolOyunu\FutbolOyunu\obj\Debug\FutbolOyunu.csprojAssemblyReference.cache
+C:\Users\Acer\Desktop\FutbolOyunu\FutbolOyunu\obj\Debug\FutbolOyunu.exe
+C:\Users\Acer\Desktop\FutbolOyunu\FutbolOyunu\obj\Debug\FutbolOyunu.pdb
